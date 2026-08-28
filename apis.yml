@@ -10,6 +10,17 @@ description: 'Codoxo is an AI-driven healthcare cost-containment and payment-int
   surface was found during enrichment; this profile captures company identity and
   security posture only.'
 url: https://raw.githubusercontent.com/api-evangelist/codoxo/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
