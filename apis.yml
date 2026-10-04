@@ -47,9 +47,9 @@ tags:
 - Health Tech
 - Healthcare
 - Artificial Intelligence
-- Fraud Detection
+- Fraud Prevention
 - Payment Integrity
-- Machine-Learning
+- Machine Learning
 - Payers
 tags_raw:
 - Company
@@ -60,6 +60,7 @@ tags_raw:
 - Payment Integrity
 - Machine Learning
 - Payers
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
